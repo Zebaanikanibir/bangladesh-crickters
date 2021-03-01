@@ -1,0 +1,97 @@
+[{
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "image": "https://i.ibb.co/1zpxQFL/sakib.jpg",
+    "email": "ldann0@who.int",
+    "gender": "Polygender",
+    "salary": 400000,
+    "job": "All-rounder"
+  }, {
+    "id": 2,
+    "name": "Mashrafe Bin Mortaza",
+    "image":"https://i.ibb.co/Ss5KNb1/mas.jpg",
+    "email": "ssmewing1@mapquest.com",
+    "gender": "Polygender",
+    "salary": 450000,
+    "job": "Bowler"
+  }, {
+    "id": 3,
+    "name": "Mustafizur Rahman",
+    "image": "https://i.ibb.co/PYFw1MH/mustafiz.jpg",
+    "email": "bsouthcomb2@linkedin.com",
+    "gender": "Male",
+    "salary": 300000,
+    "job": "Bowler"
+  }, {
+    "id": 4,
+    "name": "Musfiqur Rahim",
+    "image": "https://i.ibb.co/Fs5JQmx/mushfiqur-rahim.webp",
+    "email": "nlippett3@google.fr",
+    "gender": "Genderqueer",
+    "salary": 620000,
+    "job": "Batsman"
+  }, {
+    "id": 5,
+    "name": "Sabbir Rahman",
+    "image": "https://i.ibb.co/xJGWKzD/sabbir.jpg",
+    "email": "ldrioli4@pbs.org",
+    "gender": "Agender",
+    "salary": 300000,
+    "job": "All-rounder"
+  }, {
+    "id": 6,
+    "name": "Tamim Iqbal",
+    "image": "https://i.ibb.co/Twd6wMH/tamim.jpg",
+    "email": "rgeeritz5@imdb.com",
+    "gender": "Non-binary",
+    "salary": 650000,
+    "job": "Batsman"
+  }, {
+    "id": 7,
+    "name": "Soumya Sarkar",
+    "image": "https://i.ibb.co/V9hmrGJ/som.jpg",
+    "email": "mdowry6@usatoday.com",
+    "gender": "Bigender",
+    "salary": 300000,
+    "job": "All-rounder"
+  }, {
+    "id": 8,
+    "name": "Mahmudullah",
+    "image": "https://i.ibb.co/wCk0qg7/mahmud.jpg",
+    "email": "elung7@tuttocitta.it",
+    "gender": "Genderfluid",
+    "salary": 430000,
+    "job": "All-rounder"
+  }, {
+    "id": 9,
+    "name": "Liton Das",
+    "image": "https://i.ibb.co/zhkbgff/liton.webp",
+    "email": "jhuc8@woothemes.com",
+    "gender": "Genderqueer",
+    "salary": 275000,
+    "job":"Wicket-keeper"
+  }, {
+    "id": 10,
+    "name": "Taskin Ahmed",
+    "image": "https://i.ibb.co/dKP7TCq/taskin.jpg",
+    "email": "cgarvan9@tumblr.com",
+    "gender": "Non-binary",
+    "salary": 100000,
+    "job": "Bowler"
+  },{
+    "id": 11,
+    "name": "Rubel Hossain",
+    "image": "https://i.ibb.co/ZBgMzpm/rubel.jpg",
+    "email": "rgeeritz5@imdb.com",
+    "gender": "Non-binary",
+    "salary": 150000,
+    "job": "Bowler"
+  }, {
+    "id": 12,
+    "name": "Mehedi Hasan",
+    "image": "https://i.ibb.co/r7jS1WB/mehedi.jpg",
+    "email": "mdowry6@usatoday.com",
+    "gender": "Bigender",
+    "salary": 275000,
+    "job": "All-rounder"
+  }]
