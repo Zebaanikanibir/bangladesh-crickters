@@ -7,9 +7,12 @@
 }
 .crickter{
     width:400px;
-background:rgba(255, 255, 0, 0.527);
-
+    background:rgba(255, 255, 0, 0.411);
+    box-shadow:10px 10px 20px rgba(255, 255, 0, 0.692);
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
 }
 
-/* .button{ width:80px; height:30px; font-size:20px; font-weight:500; border:none; background:red; color:white; border-radius:5px; -webkit-border-radius:5px; -moz-border-radius:5px; -ms-border-radius:5px; -o-border-radius:5px;
-} */

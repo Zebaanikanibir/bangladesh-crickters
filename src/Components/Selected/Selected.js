@@ -8,10 +8,10 @@ const Selected = (props) => {
         <div className="selected">
             
             <h2 className="mt-4">Selected: {selected.length}</h2>
-            <p className="text-light">Total: {totalSalary}</p>
+            <p className="text-light">Total budget: ${totalSalary}</p>
             <ul className="text-light fw-bold">
             {
-             selected.map(sl => <li>{sl.name}-{sl.salary}</li>)
+             selected.map(sl => <li>{sl.name}-${sl.salary}</li>)
             }
             </ul>
             

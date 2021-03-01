@@ -13,7 +13,7 @@ const Crickters = (props) => {
             <img src={image}/>
                 <h2>{name}</h2>
                 <h3>{job}</h3>
-                <p>{salary}</p>
+                <p><small>Monthly salary: ${salary}</small></p>
                 <button type="button" className="btn btn-danger" onClick={() => handleAddCrickter(props.crickter)}>Add <FontAwesomeIcon icon={faPlus} /></button>
             </div>
     
