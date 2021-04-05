@@ -4,6 +4,7 @@ import React from 'react';
 import './Crickter.css';
 
 const Crickters = (props) => {
+
     const {name, image, salary, job} = props.crickter;
     const handleAddCrickter = props.handleAddCrickter;
     return (
